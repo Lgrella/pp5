@@ -64,7 +64,7 @@ Moving to the Netlify application interface, I performed the following steps:
 ![letsdeploy](old/letsdeploy1.png)
 
 * Next, we want to select the repository where our code is. 
-![letsdeploy](old/letsdeploy3.png)
+![letsdeploy](old/letsdeploy2.png)
 
 * We name our site (this will be the URL name, so make it good!) and we set up the build and deploy criteria. Since we have the toml file, we want to make sure these are cleared out. 
 ![letsdeploy](old/letsdeploy3.png)
@@ -109,5 +109,5 @@ To do this, I did the following:
 
 Here is screenshots of the auto deployment:
 
-![cicd](old/cicd1.png)
-![cicd](old/cicd2.png)
+![cicd](old/CICD1.png)
+![cicd](old/CICD2.png)
