@@ -2,6 +2,10 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/763e203d-b9fd-4b2b-a207-7d280e79cf65/deploy-status)](https://app.netlify.com/sites/lmgrella/deploys)
 
+## Link to Demo: 
+
+https://youtu.be/gqRVBJ1IFVo
+
 ## All about Making the Website
 
 First, to build the website I used Zola with the Adidoks theme.
@@ -111,3 +115,6 @@ Here is screenshots of the auto deployment:
 
 ![cicd](old/CICD1.png)
 ![cicd](old/CICD2.png)
+
+
+
