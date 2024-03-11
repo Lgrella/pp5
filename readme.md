@@ -33,7 +33,7 @@ Here are screenshots of the working website and the various screens.
 ![blog1](old/blog1.png)
 ![resume](old/resume.png)
 
-## All about Deploying the Website
+## All about Deploying the Website.
 Now that the website is up and running locally, it needs to be deployed so we are able to access it via a URL. To do the deployment, I chose to use Netlify. Netlify prouds themselves on the fact that their application performs streamlined orchestration, simplified and unified workflows, and real-time updates across infrastructure, workflows, websites and teams.
 
 The deployment is relatively simple, thanks to Netlify. The first two steps set up the deployment: 
